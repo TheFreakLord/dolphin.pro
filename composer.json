@@ -1,5 +1,10 @@
 {
     "require": { 
-        "ext-mbstring": "*"
+        "ext-mbstring": "*",
+        "ext-gd": "*",
+        "ext-xsl": "*",
+        "ext-ftp": "*",
+        "ext-calendar": "*",
+        "ext-exif": "*"
     }
 }
