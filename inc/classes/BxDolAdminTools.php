@@ -371,7 +371,7 @@ EOF;
                 }
 
                 if ($sCurElement == 'flash/modules/global/app/ffmpeg.exe') {
-                    $sResultPerm = $sNonExecutableC;
+                    $sResultPerm = $sExecutableC;
                 }
 
                 $sPerm = '';
