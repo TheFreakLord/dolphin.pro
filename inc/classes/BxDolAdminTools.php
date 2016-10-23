@@ -340,7 +340,7 @@ EOF;
 
             if ($sCurElement == 'flash/modules/global/app/ffmpeg.exe') {
                 $sAwaitedPerm = $sExecutableC;
-                $bAccessible = $this->isExecutable($sCurElement);
+                $bAccessible = true;
             }
 
             if ($bAccessible) {
